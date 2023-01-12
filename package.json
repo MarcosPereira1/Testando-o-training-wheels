@@ -1,0 +1,15 @@
+{
+  "name": "training-wheels",
+  "version": "1.0.0",
+  "description": "Projeto para aprender como manipular elementos da web com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "marcos",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.3.0",
+    "cypress-real-events": "^1.7.6"
+  }
+}
